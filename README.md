@@ -8,7 +8,7 @@ Diffie-Hellman algorithm is an algorithm used for key exchange between two parti
 
 1- the communication parties (Bob & Alice) agree on two large numbers p,g. Where p is a large prime number, and g is an integer such that 1 < g < p. 
 
-2- Bob chooses a large random integer B and performs --> B = g^b mod p 
+2- Bob chooses a large random integer b and performs --> B = g^b mod p 
 
 3- Alice also do the same performing --> A = g^a mod p 
 
